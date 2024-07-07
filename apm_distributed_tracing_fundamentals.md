@@ -5,6 +5,7 @@ The APM & Distributed Tracing Fundamentals exam is intended for individuals
 who can effectively demonstrate an overall knowledge of Datadog’s APM &
 Distributed Tracing product, independent of a specific job role.
 This exam will test and validate knowledge on the following topics:
+
 • Explain the rationale for using APM
 • Understand different tracing architectures
 • Understand language level differences in automatic instrumentation
@@ -16,13 +17,16 @@ This exam will test and validate knowledge on the following topics:
 – Flame Graphs
 – Deployment Tracking
 – Error Tracking
+
 • Visualize insights using
 – Service Performance Dashboards
 – Generated Metrics
 – Apdex Scores
+
 • Troubleshoot Applications using
 – Trace Search
 – Monitors & Alerting
+
 See Content outline, below for a complete list of the topics that this exam covers.
 Each exam has a maximum seat time of 2 hours.
 
