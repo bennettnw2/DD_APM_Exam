@@ -35,28 +35,32 @@ Ideal candidates have at least 6 months of experience using the Datadog
 APM & Distributed Tracing product and associated features. Candidates will
 demonstrate an understanding of how APM works and how it is best used
 in production.
+
 RECOMMENDED DATADOG KNOWLEDGE
+
 A Target Candidate should have the following knowledge:
+
 • General Application Performance Monitoring (APM)
 • Datadog APM setup and use
 • Datadog tracing libraries
 • Instrumentation Types
 • Trace/Log Correlation
 • Datadog APM
-– Services
-– Search Syntax
-– Trace vs Live
-– Trace Search
-– Flame Graphs
-– Profile Collection
-– Deployment Tracking
-– Error Tracking
-– Monitors and Alerting
+  – Services
+  – Search Syntax
+  – Trace vs Live
+  – Trace Search
+  – Flame Graphs
+  – Profile Collection
+  – Deployment Tracking
+  – Error Tracking
+  – Monitors and Alerting
 
-APM & Distributed Tracing Fundamentals
+
 ## 03 Out of Scope
 The following is a list (non-exhaustive) of specific job tasks that earners will
 not be required to perform:
+
 • Programming
 • Systems Architecture
 • Testing
@@ -64,31 +68,28 @@ not be required to perform:
 ## 04 Exam Content and Outline
 ### QUESTION TYPE
 The exam only contains one type of question:
-• Multiple choice: Has one correct response and two or more incorrect
-responses (distractors)
-Select the response that best answers the question posed. Incorrect
-answers, also known as distractors, are options that can be a plausible
-response for the question’s content area. Unanswered questions are scored
-as incorrect.
-The exam includes 75 questions that will affect your score.
-### PRE TEST ITEMS
-The exam includes 15 pre-test (unscored) questions that do not affect your
-score. Datadog collects information about candidate performance on pretest
-questions to evaluate them for future use on exam forms. Pretest questions
-are not identified to the candidate on the exam.
-### CONTENT OUTLINE
-The Exam Content Outline includes the knowledge domains and related
-subdomains of content on the exam.
 
+• Multiple choice: Has one correct response and two or more incorrect responses (distractors)
+
+Select the response that best answers the question posed. Incorrect answers, also known as distractors, are options that can be a plausible response for the question’s content area. Unanswered questions are scored as incorrect.
+
+The exam includes 75 questions that will affect your score.
+
+### PRE TEST ITEMS
+The exam includes 15 pre-test (unscored) questions that do not affect your score. Datadog collects information about candidate performance on pretest questions to evaluate them for future use on exam forms. Pretest questions are not identified to the candidate on the exam.
+
+### CONTENT OUTLINE
+The Exam Content Outline includes the knowledge domains and related subdomains of content on the exam.
 
 #### APM Fundamentals
-APM Rationale
-Datadog Approach to APM
-Tracing Architectures
-Language Level Differences—Automatic Instrumentation
-OOTB Tracer vs Community Tracer
-Tagging
-Retention Periods for APM Data
+  APM Rationale
+  Datadog Approach to APM
+  Tracing Architectures
+  Language Level Differences—Automatic Instrumentation
+  OOTB Tracer vs Community Tracer
+  Tagging
+  Retention Periods for APM Data
+
 #### Application Instrumentation
 Datadog Tracing Libraries
 Instrumentation Types
