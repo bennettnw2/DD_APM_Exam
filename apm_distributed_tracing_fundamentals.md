@@ -91,31 +91,34 @@ The Exam Content Outline includes the knowledge domains and related subdomains o
   - Retention Periods for APM Data
 
 #### Application Instrumentation
-Datadog Tracing Libraries
-Instrumentation Types
-Datadog Agent Architecture
-Sampling vs Retention
-APM Data Security
-Trace/Log Correlation
-Connecting RUM and Traces
-Profile Collection
-Deployment Tracking
+  - Datadog Tracing Libraries
+  - Instrumentation Types
+  - Datadog Agent Architecture
+  - Sampling vs Retention
+  - APM Data Security
+  - Trace/Log Correlation
+  - Connecting RUM and Traces
+  - Profile Collection
+  - Deployment Tracking
+
 #### Insight Discovery
-Services
-Search Syntax
-Trace Live vs Retained Search
-Profiler Flame Graphs
-Deployment Tracking
-Identifying Slow Endpoints
-Error Tracking
-Span Summary
+  - Services
+  - Search Syntax
+  - Trace Live vs Retained Search
+  - Profiler Flame Graphs
+  - Deployment Tracking
+  - Identifying Slow Endpoints
+  - Error Tracking
+  - Span Summary
+
 #### Visualizing Insights
-Service Performance Dashboards
-Generating Metrics
-Calculating Apdex Scores
+  - Service Performance Dashboards
+  - Generating Metrics
+  - Calculating Apdex Scores
+
 #### Troubleshooting Application using APM
-Using Trace Search (during incident)
-Monitors & Alerting
+  - Using Trace Search (during incident)
+  - Monitors & Alerting
 
 ## 05 Study and Preparation
 It is expected that you have done some preparation for the exam. This can
