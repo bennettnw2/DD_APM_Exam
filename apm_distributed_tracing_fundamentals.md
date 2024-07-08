@@ -6,17 +6,17 @@ who can effectively demonstrate an overall knowledge of Datadog’s APM &
 Distributed Tracing product, independent of a specific job role.
 This exam will test and validate knowledge on the following topics:
 
-• Explain the rationale for using APM
-• Understand different tracing architectures
-• Understand language level differences in automatic instrumentation
-• Understand how to instrument applications manually
-• Understand how to use APM features including
-– Services
-– Search Syntax
-– Trace vs Live
-– Flame Graphs
-– Deployment Tracking
-– Error Tracking
+  • Explain the rationale for using APM
+  • Understand different tracing architectures
+  • Understand language level differences in automatic instrumentation
+  • Understand how to instrument applications manually
+  • Understand how to use APM features including
+   – Services
+   – Search Syntax
+   – Trace vs Live
+   – Flame Graphs
+   – Deployment Tracking
+   – Error Tracking
 
 • Visualize insights using
 – Service Performance Dashboards
