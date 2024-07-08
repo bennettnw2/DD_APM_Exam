@@ -82,13 +82,13 @@ The exam includes 15 pre-test (unscored) questions that do not affect your score
 The Exam Content Outline includes the knowledge domains and related subdomains of content on the exam.
 
 #### APM Fundamentals
-  APM Rationale
-  Datadog Approach to APM
-  Tracing Architectures
-  Language Level Differences—Automatic Instrumentation
-  OOTB Tracer vs Community Tracer
-  Tagging
-  Retention Periods for APM Data
+  - APM Rationale
+  - Datadog Approach to APM
+  - Tracing Architectures
+  - Language Level Differences—Automatic Instrumentation
+  - OOTB Tracer vs Community Tracer
+  - Tagging
+  - Retention Periods for APM Data
 
 #### Application Instrumentation
 Datadog Tracing Libraries
