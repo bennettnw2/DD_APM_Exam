@@ -125,15 +125,17 @@ It is expected that you have done some preparation for the exam. This can
 include not only using the platform, but also taking some of Datadog’s recommended
 courses and reading relevant documentation. Below please find a
 list of recommended materials to go over to get you started.
-COURSES
-• Introduction to Application Performance Management
-• Introduction to Integrations
-• Tracking Canary Deployments with Datadog
-DOCUMENTATION
-• APM & Continuous Profiler
-• Getting Started with Tags
-• Watchdog Insights for Logs
-• Anomaly Monitor
-• SLOs
-• Datadog Lambda Extension
-• Advanced Usage—ddtrace documentation
+
+### COURSES
+  - Introduction to Application Performance Management
+  - Introduction to Integrations
+  - Tracking Canary Deployments with Datadog
+
+### DOCUMENTATION
+  - APM & Continuous Profiler
+  - Getting Started with Tags
+  - Watchdog Insights for Logs
+  - Anomaly Monitor
+  - SLOs
+  - Datadog Lambda Extension
+  - Advanced Usage—ddtrace documentation
